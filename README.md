@@ -25,7 +25,7 @@
 - [Network Mapping and Monitoring Competency](https://drive.google.com/file/d/1MwloU_EHrgkKEnbsWSG24IVwdVyPXJnE/view?usp=share_link) <b>(Using NMAP and Wireshark)</b>
     - Conducted network mapping using Nmap and identified network topology, including vulnerabilities and their potential implications, supported by detailed screenshots.
     - Monitored network traffic using Wireshark, identified anomalies with associated packet ranges, summarized potential security implications, and recommended solutions to mitigate identified issues using industry-standard research.
-- [Wireless and Mobile Technologies Competency](https://www.youtube.com/watch?v=uHy3oM7NnoU) <b>(WLAN and Mobile Security Plan)</b>
+- [Wireless and Mobile Technologies Competency](https://docs.google.com/document/d/1mCbmYRy7LAU-mo8kSIFnMmhR9ZpXUI4m/edit?usp=share_link&ouid=105420942318330051700&rtpof=true&sd=true) <b>(WLAN and Mobile Security Plan)</b>
   - Identified and analyzed WLAN and mobile vulnerabilities for a growing social media company, recommending specific mitigation steps and necessary tools for each vulnerability.
   - Proposed preventive measures and a BYOD policy solution, supported by research and industry regulations, to enhance security in a small business wireless and mobile environment.
 - 
