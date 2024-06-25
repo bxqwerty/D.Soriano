@@ -8,9 +8,6 @@
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Active Directory Environment Setup</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>📄 Certifications</h2>
 
@@ -25,7 +22,7 @@
 
 <h2>📚 Assignments</h2>
 
-- [Network Mapping and Monitoring Competency](https://www.youtube.com/watch?v=a83ASGn_V_s) <b>(Using NMAP and Wireshark)</b>
+- [Network Mapping and Monitoring Competency](https://drive.google.com/file/d/1MwloU_EHrgkKEnbsWSG24IVwdVyPXJnE/view?usp=share_link) <b>(Using NMAP and Wireshark)</b>
     - Conducted network mapping using Nmap and identified network topology, including vulnerabilities and their potential implications, supported by detailed screenshots.
     - Monitored network traffic using Wireshark, identified anomalies with associated packet ranges, summarized potential security implications, and recommended solutions to mitigate identified issues using industry-standard research.
 - [Wireless and Mobile Technologies Competency](https://www.youtube.com/watch?v=uHy3oM7NnoU) <b>(WLAN and Mobile Security Plan)</b>
